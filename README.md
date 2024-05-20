@@ -1,4 +1,4 @@
-As a user or customer of [Manager.io](https://www.manager.io), you likely reach out to me for support, to report bugs, or to request new features. To help me respond to your needs as quickly and efficiently as possible, here are some guidelines on how to write an effective email.
+As a user of [Manager.io](https://www.manager.io), you likely reach out to me for support, to report bugs, or to request new features. To help me respond to your needs as quickly and efficiently as possible, here are some guidelines on how to write an effective email.
 
 ## Identify the Purpose of Your Email
 
