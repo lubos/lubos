@@ -2,7 +2,7 @@ As a user of [Manager.io](https://www.manager.io), you might need support, want 
 
 ## Identify the Purpose of Your Email
 
-Clearly state whether you are seeking support, reporting a bug, or requesting a new feature. This helps understand the context of your email right away. A specific and concise subject line is crucial. For example, instead of writing “Help needed,” a more precise subject like “Bug Report: Issue with Invoice Generation” will grab attention and convey the purpose immediately.
+Clearly state whether you are seeking support, reporting a bug, or requesting a new feature. This helps understand the context of your email right away. A specific and concise subject line is crucial. For example, instead of writing “Help needed,” a more precise subject like “Bug Report: Issue with Invoice Generation” will convey the purpose immediately.
 
 ## Keep It Simple and Focused
 
