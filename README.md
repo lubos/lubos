@@ -1,6 +1,6 @@
 # 👋 Welcome Open-Source Programmers!
 
-Are you passionate about open-source and interested in making accounting software more accessible worldwide? Manager.io, a free double-entry accounting system, is on a mission to empower small businesses and individuals globally by providing country-specific integrations that meet local regulatory and compliance requirements. 
+Are you passionate about open-source and interested in making accounting software more accessible worldwide? [https://www.manager.io](Manager.io), a free double-entry accounting system, is on a mission to empower small businesses and individuals globally by providing country-specific integrations that meet local regulatory and compliance requirements.
 
 ## Why Contribute?
 
