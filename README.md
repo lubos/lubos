@@ -1,6 +1,6 @@
 # 👋 Welcome Open-Source Programmers!
 
-Are you passionate about open-source and interested in making accounting software more accessible worldwide? [Manager.io](https://www.manager.io), a free double-entry accounting system, is on a mission to empower small businesses and individuals globally by providing country-specific integrations that meet local regulatory and compliance requirements.
+Are you passionate about open-source and interested in making accounting software more accessible worldwide? Manager.io, a free double-entry accounting system, is on a mission to empower small businesses and individuals globally by providing country-specific integrations that meet local regulatory and compliance requirements.
 
 ## Why Contribute?
 
@@ -19,23 +19,29 @@ We’re looking for talented programmers to build integrations that make Manager
 
 Manager.io’s desktop edition is entirely free, providing anyone, anywhere, with accessible accounting software. With your help, we can extend its functionality to meet local needs, making it truly universal.
 
-## How It Works
+## How to Get Started
 
-1. **Choose Your Integration**  
-   Decide which feature you’d like to develop for your country. Whether it’s payroll, tax, invoicing, or bank feeds, the choice is yours!
+1. **Get Familiar with Manager.io**  
+   Before diving into development, take some time to explore [Manager.io](https://www.manager.io) to understand how it works and its core features.
 
-2. **Use Any Technology**  
+2. **Connect with Local Accountants**  
+   Visit our [Manager.io Accountants Directory](https://www.manager.io/accountants) to connect with accountants in your country who are already using Manager.io. They can provide insights into the specific functionality needed for local compliance and will serve as your first users and testers.
+
+3. **Plan Your Integration**  
+   Decide which feature you’d like to develop for your country based on feedback from accountants. Whether it’s payroll, tax, invoicing, or bank feeds, you’ll be creating something that addresses real needs in your market.
+
+4. **Use Any Technology**  
    Manager.io offers a flexible **API** that allows you to work in the programming language and framework of your choice. Find the API documentation [here](https://manager.readme.io/reference) to get started.
 
-3. **Maintain Ownership**  
+5. **Maintain Ownership**  
    Each project belongs to the programmer who develops it. You can host it on your GitHub account, set your own contribution guidelines, and manage it independently.
 
-4. **Sponsorship Growth**  
+6. **Sponsorship Growth**  
    Sponsorships start at **$1,000 USD per month** and can increase as your project proves valuable to a larger user base. The more useful and widely adopted your integration becomes, the more support you’ll receive.
 
 ## Requirements
 
-While experience with accounting and ERP systems is helpful, it’s not required. A willingness to engage with the Manager.io API and a commitment to creating and maintaining a high-quality integration are the primary expectations.
+While experience with accounting and ERP systems is helpful, it’s not required. A willingness to engage with the Manager.io API, reach out to local accountants for feedback, and a commitment to creating and maintaining a high-quality integration are the primary expectations.
 
 ## Ready to Get Started?
 
