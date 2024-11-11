@@ -1,83 +1,42 @@
-As a user of [Manager.io](https://www.manager.io), you might need support, want to report bugs, or request new features. To help address your needs quickly and efficiently, here are some guidelines on how to write an effective email.
+# 👋 Welcome Open-Source Programmers!
 
-## Identify the Purpose of Your Email
+Are you passionate about open-source and interested in making accounting software more accessible worldwide? Manager.io, a free double-entry accounting system, is on a mission to empower small businesses and individuals globally by providing country-specific integrations that meet local regulatory and compliance requirements. 
 
-Clearly state whether you are seeking support, reporting a bug, or requesting a new feature. This helps understand the context of your email right away. A specific and concise subject line is crucial. For example, instead of writing “Help needed,” a more precise subject like “Bug Report: Issue with Invoice Generation” will convey the purpose immediately.
+## Why Contribute?
 
-## Keep It Simple and Focused
+Through our **GitHub Sponsors** program, Manager.io will support developers who create and maintain these country-specific integrations. Starting at **$1,000 USD per month**, sponsored developers will have the opportunity to grow their sponsorship as their integrations become valuable to users in their country and beyond.
 
-Send single-topic emails. This means each email should address only one issue, question, or request. Complex emails containing multiple points or questions can be difficult to resolve quickly and may lead to longer back-and-forth exchanges. If you have multiple concerns, prioritize them and send separate emails for each one. This way, each issue can be addressed individually and more efficiently.
+## Your Mission
 
-### Why Single-Topic Emails are Better
+We’re looking for talented programmers to build integrations that make Manager.io truly global. This includes:
 
-- **Easier to Track:** Each email can be treated as a single task on the to-do list.
-- **Quicker Resolution:** With a clear focus, faster and more detailed responses can be provided.
-- **Less Confusion:** Avoids mixing up different issues, which can lead to misunderstandings.
+- **e-Invoicing:** Automated compliance with country-specific invoicing standards.
+- **Payroll Calculations:** Tailored payroll calculations for local tax and social security requirements.
+- **Tax Reporting:** Generate country-specific tax reports.
+- **Bank Feeds:** Integrate local bank feeds for seamless transaction imports.
 
-## Use an Informal and Detailed Style
+## Why Manager.io?
 
-Emails that are informal yet detailed are preferred. Formal emails take longer to read and often add no additional value. Detailed emails save time by reducing the need for follow-up questions. When writing your email, include all relevant details right from the start, such as:
+Manager.io’s desktop edition is entirely free, providing anyone, anywhere, with accessible accounting software. With your help, we can extend its functionality to meet local needs, making it truly universal.
 
-- The version of Manager.io being used.
-- Any relevant account details.
-- Specific error messages or issues encountered.
+## How It Works
 
-## Provide Relevant Attachments and Information
+1. **Choose Your Integration**  
+   Decide which feature you’d like to develop for your country. Whether it’s payroll, tax, invoicing, or bank feeds, the choice is yours!
 
-Including attachments and additional information can significantly speed up the process. Here’s how you can help:
+2. **Use Any Technology**  
+   Manager.io offers a flexible **API** that allows you to work in the programming language and framework of your choice. Find the API documentation [here](https://manager.readme.io/reference) to get started.
 
-- **Accounting Files:** If possible, attach your accounting file or provide access to it.
-- **Step-by-Step Instructions:** Provide clear instructions on how to find the relevant screen or reproduce the issue.
-- **Screenshots:** If you encounter an error, attach a screenshot. This provides context and technical details that can be crucial for troubleshooting.
+3. **Maintain Ownership**  
+   Each project belongs to the programmer who develops it. You can host it on your GitHub account, set your own contribution guidelines, and manage it independently.
 
-## Trust the Process
+4. **Sponsorship Growth**  
+   Sponsorships start at **$1,000 USD per month** and can increase as your project proves valuable to a larger user base. The more useful and widely adopted your integration becomes, the more support you’ll receive.
 
-Once you’ve sent your email, trust that a response will come as soon as possible. If your email is in the mailbox, rest assured that it’s on the to-do list. There is no need for follow-up reminders, as prompt and efficient responses are a priority.
+## Requirements
 
-## Examples of Well-Written and Poorly-Written Emails
+While experience with accounting and ERP systems is helpful, it’s not required. A willingness to engage with the Manager.io API and a commitment to creating and maintaining a high-quality integration are the primary expectations.
 
-### Good Example
+## Ready to Get Started?
 
-**Subject:** Bug Report: Issue with Invoice Generation
-
-**Body:**
-
-Hi [Your Name],
-
-I'm experiencing an issue with generating invoices in Manager.io. Here are the details:
-
-- **Version:** 21.5.32
-- **Steps to Reproduce:**
-  1. Log in to my account.
-  2. Go to the "Sales Invoices" tab.
-  3. Click on "New Invoice."
-  4. Fill out the required fields and click "Create."
-
-An error message appears saying, "Invoice generation failed."
-
-**Attachment:** I've attached a screenshot of the error message and my accounting file for your reference.
-
-Thank you for your assistance.
-
-Best,  
-[User Name]
-
-### Poor Example
-
-**Subject:** Multiple Issues
-
-**Body:**
-
-Hi,
-
-I'm having several problems with Manager.io:
-
-1. Can't generate invoices.
-2. Reports are not loading.
-3. The dashboard is showing incorrect data.
-
-Please fix these issues.
-
-Thanks.
-
-By following these guidelines, you can ensure your emails are effective, making it easier to provide timely support and resolve your issues efficiently. Thank you for your cooperation and understanding.
+If you're excited about contributing to a global project and want to help make free, fully featured accounting software available worldwide, Manager.io wants to sponsor your work! Reach out today to start making an impact.
