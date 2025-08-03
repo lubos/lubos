@@ -19,12 +19,6 @@ We’re looking for talented programmers to build integrations that make Manager
 
 Manager.io’s desktop edition is entirely free, providing anyone, anywhere, with accessible accounting software. With your help, we can extend its functionality to meet local needs, making it truly universal.
 
-## Current Integrations in Progress
-
-We’re already making strides toward country-specific functionality! Here’s what’s currently in development:
-
-- **Saudi Arabia:** [@mabaega](https://github.com/mabaega) is working on the [Zatca Phase II integration](https://github.com/mabaega/ZatcaEGS) for compliance with Saudi Arabian e-invoicing regulations.
-
 ## How to Get Started
 
 1. **Get Familiar with Manager.io**  
